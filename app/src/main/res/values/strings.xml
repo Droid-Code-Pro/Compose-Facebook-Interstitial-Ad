@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Facebook Interstitial</string>
+
+    <string name="meta_interstitial_ad">YOUR_PLACEMENT_ID</string>
+
+
+</resources>
